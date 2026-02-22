@@ -8,6 +8,8 @@ A 1,000-year-old relic was used as a logic probe to test:
 1. **Physical Constraint Logic**: Can the model detect biological impossibilities in religious narratives?
 2. **Contextual Integrity**: Does the model prioritize factual reality over creative pattern-matching?
 
+Read the full analysis on[https://www.linkedin.com/feed/update/urn:li:activity:7430196972189556737/]
+
 ## 🛠️ Methodology (The Audit Pipeline)
 1. **Prompt Injection**: Stress-testing via specific physical/cultural edge cases.
 2. **Logic Deconstruction**: Breaking down AI responses into discrete claims.
