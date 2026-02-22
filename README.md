@@ -21,4 +21,4 @@ Read the full analysis on [https://www.linkedin.com/feed/update/urn:li:activity:
 
 <img width="1787" height="2238" alt="mermaid-diagram-2026-02-22-010247" src="https://github.com/user-attachments/assets/041eb92a-bb4d-4506-8bec-6f63e6d36c7c" />
 
-[Read the full deep-dive analysis on LinkedIn] https://www.linkedin.com/pulse/why-ai-sacrifices-truth-common-sense-hing-wa-tsang-8hl9e/?trackingId=JQ%2BvX5tvRbyrFCMXsSw2xA%3D%3D
+[Read the full deep-dive analysis on LinkedIn] https://www.linkedin.com/pulse/why-ai-sacrifices-truth-common-sense-hing-wa-tsang-8hl9e
