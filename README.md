@@ -16,3 +16,5 @@ A 1,000-year-old relic was used as a logic probe to test:
 
 ## 📊 Logic Architecture Diagram
 (Refer to the diagram below for the operational flow of this framework.)
+
+<img width="1787" height="2238" alt="mermaid-diagram-2026-02-22-010247" src="https://github.com/user-attachments/assets/041eb92a-bb4d-4506-8bec-6f63e6d36c7c" />
